@@ -41,6 +41,26 @@ What is it that we really want? At a broad level:
 [@pftbest]: https://github.com/pftbest
 [@thejpster]: https://github.com/thejpster
 
+### The embedded Linux team
+
+The embedded Linux team develops and maintains the core of the embedded Linux crate ecosystem.
+
+#### Members
+
+- [@nastevens]: https://github.com/nastevens
+- [@posborne]: https://github.com/posborne
+
+#### Projects
+
+Projects maintained by the embedded Linux team
+
+- [`gpio-utils`]: https://github.com/rust-embedded/gpio-utils
+- [`i2cdev`]: https://github.com/rust-embedded/rust-i2cdev
+- [`linux-embedded-hal`]: https://github.com/japaric/linux-embedded-hal
+- [`spidev`]:https://github.com/rust-embedded/rust-spidev
+- [`sysfs-gpio`]: https://github.com/rust-embedded/rust-sysfs-gpio
+- [`sysfs-pwm`]: https://github.com/rust-embedded/rust-sysfs-pwm
+
 ### Subprojects
 
 * [AVR fork of Rust](https://github.com/avr-rust/)
