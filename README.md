@@ -41,6 +41,14 @@ What is it that we really want? At a broad level:
 [@pftbest]: https://github.com/pftbest
 [@thejpster]: https://github.com/thejpster
 
+### The triage team
+
+The triage team is charge of keeping PR queues moving; they ensure no PR is left unattended.
+
+#### Members
+
+*crickets*
+
 ### Subprojects
 
 * [AVR fork of Rust](https://github.com/avr-rust/)
